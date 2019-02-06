@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Unscrambler
+comment0.text=\r\n\ This\ class\ has\ methods\ that\ simulate\ the\ allscrabblewords.com\ website\r\n\r\n\ @author\ Julia\ Krasinski\r\n\ @version\ 1/28/2019\r\n
+comment1.params=file
+comment1.target=Unscrambler(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Unscrambler\r\n\ @param\ file,\ takes\ in\ the\ name\ of\ the\ file\ that\ is\ used\ throughout\ the\ class\r\n
+comment2.params=target
+comment2.target=void\ findWords(java.lang.String)
+comment2.text=\r\n\ This\ method\ looks\ through\ a\ file\ and\ determines\ all\ the\ words\ in\ that\ file\ that\ are\ \r\n\ contained\ in\ the\ target\ word\r\n\ @param\ String\ target,\ word\ that\ is\ checked\ by\ the\ method\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=text\ target
+comment4.target=boolean\ contains(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ This\ method\ takes\ in\ two\ string\ variables\ and\ determines\ whether\ or\ not\r\n\ the\ letters\ in\ the\ second\ are\ all\ contained\ in\ the\ first\r\n\ @param\ two\ string\ variables\r\n\ @return\ a\ boolean\ statement\ showing\ whether\ or\ not\ the\ target\ is\ contained\r\n\ in\ the\ text\r\n
+numComments=5
